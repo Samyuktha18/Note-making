@@ -1,3 +1,4 @@
+# a python pakage for website folder
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy #for database
 from os import path # to check if the path of the database exixts
